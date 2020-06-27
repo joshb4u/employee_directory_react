@@ -4,7 +4,7 @@ function Header (){
     const headerStyle = {
         padding: "30px 0",
         color: "#ffffff",
-        backgroundImage:"linear-gradient(to right, rgba(255,0,255,1),rgba(0,0,0,255))",
+        backgroundImage:"linear-gradient(to right, rgba(30,130,76,1),rgba(0,0,0,255))",
         width:"100%",
         textAlign: "center",
         marginBottom: "20px",
