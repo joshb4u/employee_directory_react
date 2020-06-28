@@ -14,6 +14,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Preview](#preview)
+* [Video](#video)
 * [Deployed URL](#Deployed-URL)
 
 ## Description
@@ -53,5 +54,8 @@ This project is licensed under MIT
 ## Preview
 ![Demo](public/Assets/demo.gif)
 
+## Video
+https://joshb4u.github.io/employee_directory_react/Assets/demo.mp4
+
 ## Deployed URL
-http://joshb4u.github.io/employee_directory_react/
+https://joshb4u.github.io/employee_directory_react/
